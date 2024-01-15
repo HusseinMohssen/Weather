@@ -15,11 +15,11 @@ input{
 
 }
 
-.item-1 , .item-3 , .middle{
+.item-1 , .item-3{
     background-color: #323544;
 }
 
-.item-2 , .upper{
+.item-2{
     background-color: #262936;
 }
 
@@ -43,4 +43,8 @@ ul li {
 ul li i {
     font-size: 30px !important;
     color: aqua !important;
+}
+
+.upper{
+    background-color: rgba(0, 255, 255, 0.518);
 }
